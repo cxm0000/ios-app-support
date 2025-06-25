@@ -1,4 +1,4 @@
-# Stock Options Calculator - Support
+# App OptionWise - Support
 
 Thank you for using the Stock Options Calculator app!
 
@@ -6,7 +6,7 @@ Thank you for using the Stock Options Calculator app!
 
 If you have any questions, encounter a bug, or have a feature request, please do not hesitate to contact us. The best way to get in touch is by sending an email to:
 
-**[Your Support Email Address Here]**
+**[info@tangcai.se]**
 
 We will do our best to respond to all inquiries within 48 hours.
 
