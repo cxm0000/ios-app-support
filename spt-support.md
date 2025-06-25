@@ -24,7 +24,6 @@ Welcome to the Strength Progress Tracker support guide! This document will help 
 4. **Go to Settings** to customize your preferences:
    - Weight units (kg/lbs)
    - Height units (cm/ft)
-   - Theme (Dark/Light)
 
 ### App Navigation
 The app uses a tab-based navigation system:
@@ -90,11 +89,6 @@ The app uses a tab-based navigation system:
 - **Progress Charts**: Visual representation of your progress
 - **Workout Statistics**: Detailed workout metrics
 - **Performance Trends**: Track improvements over time
-
-### Theme Support
-- **Dark Theme**: Easy on the eyes in low light
-- **Light Theme**: Clean and bright for daytime use
-- **Auto Switch**: Automatically adapts to system settings
 
 ## Troubleshooting
 
@@ -192,7 +186,7 @@ A: Health integration is planned for future updates.
 4. **Check your device** has sufficient storage and is running the latest iOS
 
 ### How to Contact Us
-- **Email**: [Your support email]
+- **Email**: info@tangcai.se
 - **In-App Feedback**: Use the feedback option in Settings
 - **App Store Review**: Leave a review with specific feedback
 
@@ -212,7 +206,6 @@ When contacting support, please include:
 - Personal record detection
 - Built-in workout timer
 - Progress analytics and charts
-- Dark/light theme support
 - Responsive design for all iPhone models
 - Comprehensive exercise library
 - Workout rating system
